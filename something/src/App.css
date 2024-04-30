@@ -43,10 +43,12 @@
 }
 
 .headings {
-  font-family: 'Poppins', sans-serif;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+.the-h1 {
+  font-family: 'Poppins', sans-serif;
 }
 .headings img {
   width: 150px;
